@@ -41,7 +41,7 @@
                         @csrf
                     </form>
                     <li class="nav-item">
-                        <a class="btn btn-light mx-1 px-2 my-1" onclick="changeTheme()"> Change-Theme </a>
+                        <a class="btn btn-light mx-1 px-2 my-1" onclick="changeTheme()"> Cambia tema </a>
                     </li>
                 @endguest
             </ul>

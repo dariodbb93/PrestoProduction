@@ -3,7 +3,7 @@
 
     <div class="container-fluid backgroundContainer  min-vh-100">
         <div class="row ">
-            <h1 class=" mt-5 mb-5 mx-2"> About me </h1>
+            <h1 class=" mt-5 mb-5 mx-2"> Su di me </h1>
             <div class="col-12 text-center d-flex justify-content-start align-items-center">
 
                 <div class="mx-2" style="width: 11rem;">
