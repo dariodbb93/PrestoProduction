@@ -24,7 +24,7 @@
                     </div>
                     <div class="mb-3">
                         <label class="form-label fw-bolder"> Inserisci il prezzo </label>
-                        <input type="text" class="form-control" name="price" required>
+                        <input type="number" class="form-control" name="price" required>
                     </div>
                     <button type="submit" class="btn btn-dark">Submit</button>
                 </form>
